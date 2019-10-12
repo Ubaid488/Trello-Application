@@ -1,2 +1,2 @@
 # Trello-Application
-This is a Java Based Desktop Implementation of the orignal Trello Application
+This is a Java based desktop implementation of Trello Project

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/trello/User_Management.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>26</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/User.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/CardDisplayC.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/AddComment.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/ChangeAccountDetails.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/ChecklistDisplay.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/AddDescriptionToCard.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/AssignMember.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/CreateNewItem.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/RemoveMember.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/LogIn.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/Card.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/Dashboard.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/TeamDisplay.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/Signup.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/ListDisplay.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/TrelloHome.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/SelectDuedate.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/CheckList.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/CreateNewList.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/Trello.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/ForgetPassword.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/resources/rsz_5b2013bebdafd0ef441925ed_trello-logo.png</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/CreateNewCard.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/Team.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/SearchAssignedCardsTable.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/User_Management.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/SearchAssignedCards.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/CreateNewTeam.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/welcome.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/CreateNewCheckList.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/Team_Management.java</file>
+            <file>file:/C:/Users/ubaidullah/Documents/NetBeansProjects/Trello/src/trello/AddMember.java</file>
+        </group>
+    </open-files>
+</project-private>
